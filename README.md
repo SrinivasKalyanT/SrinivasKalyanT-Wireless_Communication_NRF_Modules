@@ -9,8 +9,7 @@ This project utilizes Arduino and NRF24L01 transceiver modules to establish a wi
 
 ### Future Work
 ## Predictive Maintenance
-  ### Description : 
-                  Implement a predictive maintenance system using sensor data. By monitoring various parameters like temperature, vibration, or current, ML algorithms can predict potential failures before they occur.
+  Description : Implement a predictive maintenance system using sensor data. By monitoring various parameters like temperature, vibration, or current, ML algorithms can predict potential failures before they occur.
 
 ### Steps:
 - Collect Data from Relevant Sensors: Set up and gather data from sensors.
