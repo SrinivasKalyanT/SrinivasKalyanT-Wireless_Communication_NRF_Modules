@@ -8,7 +8,7 @@ This project utilizes Arduino and NRF24L01 transceiver modules to establish a wi
 - Servo motor
 
 ### Future Work
-## Predictive Maintenance
+### Predictive Maintenance
   Description : Implement a predictive maintenance system using sensor data. By monitoring various parameters like temperature, vibration, or current, ML algorithms can predict potential failures before they occur.
 
 ### Steps:
